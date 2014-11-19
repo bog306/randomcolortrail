@@ -1,0 +1,16 @@
+
+#space{
+	width: auto;
+	height: auto;
+
+}
+
+.container {
+	width:	15px;
+	height: 15px;
+	display: inline-block;
+	float: left;
+	border: none;
+
+}
+
